@@ -90,7 +90,7 @@ textarea {
   transition: color 0.2s ease-in-out;
   transform: translateZ(0);
   position: relative;
-  color: #D16666;
+  color: #6C145E;
 }
 
 
@@ -179,7 +179,7 @@ textarea {
 
 .case-item-text-right {
   margin-top: 34px;
-  width: 45%;
+  width: 40%;
   float: right;
 }
 
@@ -197,8 +197,12 @@ textarea {
   margin-right: 1%;
 }
 
+.case-item-spotify {
+  background-color: #6C145E;
+}
+
 .case-item-mastercard {
-  background-color: #C46C36;
+  background-color: #DC1C53;
 }
 
 .case-item-header {
@@ -218,29 +222,18 @@ textarea {
   margin: auto;
 }
 
-.case-item-screens-twitter {
-  height: 174.96px;
-  margin: auto;
-  display: block;
-}
-
-.case-item-wics {
-  background-color: #6336C4;
-}
-
-.case-item-twitter {
-  background-color: #36ADC4;
-}
-
 .case-item-photostash {
-  background-color: #c44736;
+  background-color: #1A56D8;
 }
 
 .case-item-screens-photostash {
   height: 380px;
 }
 
-
+.case-item-screens-spotify {
+  width: 100%;
+  margin: auto;
+}
 
 .card {
   max-width: 1150px;
@@ -253,7 +246,7 @@ textarea {
   padding-top: 50px;
   padding-left: 50px;
   padding-right: 55%;
-  background-color: #D16666;
+  background-color: #EBA63B;
   text-align: left;
   position: relative;
   box-sizing: border-box;
